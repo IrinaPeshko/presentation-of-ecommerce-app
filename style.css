@@ -15,3 +15,15 @@
 .square-img{
   width: 55%;
 }
+
+.sprint2__img .image-row__img{
+  height: 515px ;
+}
+
+.sprint2__response .image-row__img{
+  height: 250px ;
+}
+.sprint2__marks .image-row__img{
+  width: 350px;
+  height: 180px;
+}
